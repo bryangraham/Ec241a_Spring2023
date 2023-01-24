@@ -1,0 +1,29 @@
+# Compiled python modules.
+*.pyc
+
+# Materials to Exclude (for now)
+/NotForRepo/
+
+# Ignore Jupyter/IPython Notebook Checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore graphics files created by Notebooks/Programs in Repo
+*.png
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+
+# Source Lyx/Tex/BibTex files
+*.tex
+*.lyx
+*lyx-format*.lyx
+*.*#
+*.bib
+*.*~
+
+# Source spreadsheet files
+*.ods
+*.xls
+*.xlsx
